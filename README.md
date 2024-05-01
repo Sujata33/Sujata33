@@ -18,7 +18,7 @@
 <a style="margin-right: 5px" href="https://cplusplus.com/doc" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
 <a style="margin-right: 5px" href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a>
 <a style="margin-right: 5px" href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-
+ 
 </p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sujata33&show_icons=true&locale=en&layout=compact" alt="sujata33" /></p>
